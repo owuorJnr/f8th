@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">f8th</string>
+    <string name="version">1.2</string>
+    <string name="app_details">v1.2</string>
+    <string name="app_welcome">welcome</string>
+    <string name="app_desc">Every Believer has a story to tell about his/her faith.\nWhat is your STORY?</string>
+    <string name="developer">Dickson Owuor</string>
+    
+    <string name="content_provider">.ContentProvider.F8thContentProvider</string>
+    
+    <string name="activity_login">Login</string>
+    <string name="activity_main">Home</string>
+    <string name="activity_view">View</string>
+    
+    <string name="dialog_title">F8th Dialog</string>
+    <string name="dialog_button">got it</string>
+    <string name="warning_wait">Processing, please wait...</string>
+    <string name="warning_welcome">1. Sign Up: creates your online account\n2. Add your profile details\n3. Join, add Group\n4. Tell or view stories to/from joined groups</string>
+    <string name="warning_profile">Your profile is not setup.\nYou cannot join a group, tell stories.</string>
+    <string name="warning_join_f8th">You are automatically added to group F8th,\nyou can widthraw from the group if you wish.</string>
+    <string name="warning_group">You can only add and manage one group to f8th\nhowever, you can join as many groups as you wish.</string>
+    <string name="warning_join_group">You have to join atleast one group to create, edit or view stories</string>
+    <string name="warning_delete_group">Deleting a group will also automatically delete all the members of that group</string>
+    <string name="warning_new_story">Your story will only be visible to members of the group you have selected.</string>
+    <string name="warning_stories">You can only view stories in the groups you have joined.</string>
+    <string name="warning_notification">You will receive notifications of new stories that have been told in the group/s you have joined</string>
+    
+    
+    <string name="action_status">status</string>
+    <string name="action_share">share</string>
+    <string name="action_settings">settings</string>
+    <string name="action_story">story</string>
+    <string name="action_group">group</string>
+    
+    <string name="about">Your favorite Bible verse</string>
+    <string name="why">Why did you decide to accept Christ as your Saviour?</string>
+    <string name="desire">What is the dream you desire to achieve here on Earth?</string>
+   
+    <string name="forgot_directions">A new password will be sent to the email address, make sure it is correct. Please reset the password on the next sign in</string>
+    
+    <string name="listuser">account settings</string>
+    <string name="listpeople">sharing our stories</string>
+    
+    <string name="settings_autologin">Automatic Login</string>
+    <string name="settings_push">Push Notifications</string>
+    
+    <string name="nodata">Loading . . .</string>
+    <string name="previousList">previous</string>
+    <string name="nextList">next</string>
+    <string name="refreshList">refresh</string>
+    <string name="searchautocomplete">SearchAutoComplete</string>
+    
+    <string name="compose_story">Compose....</string>
+    <string name="compose_title">Compose Story</string>
+    
+   	<string name="grp_title">Group Details</string>
+    <string name="group_name">group name</string>
+    <string name="group_type">group type</string>
+    <string name="group_member_no">members</string>
+    <string name="group_events">events</string>
+    <string name="group_join">join</string>
+    <string name="group_disjoin">disjoin</string>
+    
+    <string name="profile_fav_verse">Favorite Verse</string>
+    <string name="profile_why">Why I accepted Jesus Christ</string>
+    <string name="profile_desire">My Desire</string>
+    
+    <string name="honor">All Honor and Glory be to God Almighty</string>
+    <string name="attributions">http://stackoverflow.com\nhttp://www.javatechig.com\nhttp://www.androidhive.info\nhttp://www.vogella.com\nhttp://code.google.com/p/simple-android-instant-messaging-application/\nhttp://android-ed.blogspot.com</string>
+    <string name="credits">ahmet oguz mermerkaya\nlars vogel\nPeter Kirwa</string>
+    <string name="resources">http://developer.android.com\nhttp://www.actionbarsherlock.com</string>
+    
+</resources>

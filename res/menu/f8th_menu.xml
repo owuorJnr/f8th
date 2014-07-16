@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/status"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="false"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_status">
+    </item>
+
+    <!--
+    item 
+        android:id="@+id/share" 
+        android:icon="@drawable/ic_menu_share" 
+        android:showAsAction="ifRoom" 
+        android:title="@string/action_share" 
+        android:actionProviderClass="com.actionbarsherlock.widget.ShareActionProvider">
+    </item
+    -->
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/nav_settings"
+        android:showAsAction="always"
+        android:title="@string/action_settings">
+    </item>
+    <item
+        android:id="@+id/newStory"
+        android:icon="@drawable/nav_compose"
+        android:showAsAction="always"
+        android:title="@string/action_story">
+    </item>
+    <item
+        android:id="@+id/newGroup"
+        android:icon="@drawable/nav_add_group"
+        android:showAsAction="always"
+        android:title="@string/action_group">
+    </item>
+
+</menu>

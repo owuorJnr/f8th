@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="gender">
+        <item>select gender</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>None</item>
+    </string-array>
+    
+    <string-array name="group_type">
+        <item>select type</item>
+        <item>Prayer</item>
+        <item>Bible Study</item>
+        <item>Dancing</item>
+        <item>Singing</item>
+    </string-array>
+    
+    <string-array name="group_member">
+        <item>member</item>
+        <item>manager</item>
+    </string-array>
+    
+    <string-array name="story_visibility">
+        <item>everyone</item>
+        <item>group</item>
+    </string-array>
+    
+    <string-array name="menulist_title">
+        <item>ACCOUNT</item>
+        <item>STORIES</item>
+    </string-array>
+    
+    <string-array name="menulist_subtitle">
+        <item>settings</item>
+        <item>people</item>
+    </string-array>
+    
+    <string-array name="settings">
+        <item>Update Profile</item>
+        <!-- item>View Story(remove)</item-->
+        <item>Edit User</item>
+        <item>Change Password</item>
+        <item>Sign Out</item>
+        <item>Report Issue</item>
+        <item>About</item>
+        <item>De-register</item>
+   	</string-array>
+    
+    <string-array name="about_app">
+        <item>Suggestions</item>
+        <item>About</item>
+    </string-array>
+    
+    <string-array name="searchCategory">
+        <item>Name</item>
+        <item>Country</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:orientation="horizontal"
+    tools:ignore="HardcodedText" >
+
+    <ProgressBar
+        android:id="@+id/progressChild"
+        style="?android:attr/progressBarStyleSmall"
+        android:indeterminateDrawable="@drawable/custom_progress_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="2dp"
+        android:paddingTop="5dp" 
+        android:layout_marginLeft="2dp"
+        android:visibility="invisible"/>
+    
+    <TextView
+        android:id="@+id/txtCategoryChild"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="2dp"
+        android:paddingTop="5dp"
+        android:text="story details"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/gray"
+        android:textSize="14sp"
+        android:textStyle="italic" />
+    
+    <ImageView
+        android:id="@+id/imgDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="1dp"
+        android:src="@drawable/ic_delete"
+        tools:ignore="ContentDescription" >
+        
+    </ImageView>
+
+</LinearLayout>
